@@ -1,0 +1,2 @@
+Inside the teams' home directories there was a file called "Directions.txt" which gave them directions to find a certain file in a directory named "Secrets" which held 1000 files with 1 holding the next challenge
+They had to use the command "grep -r 'KarenRulez' /home/user/Secrets"
